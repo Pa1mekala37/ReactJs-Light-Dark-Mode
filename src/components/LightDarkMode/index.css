@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.bg-container1 {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 24px;
+}
+
+.container {
+  text-align: center;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.darkmode {
+  background-color: #000000;
+  border: 1px solid #000000;
+}
+
+.lightmode {
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+
+.heading-dark {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 24px;
+}
+
+.heading-light {
+  color: #000000;
+  font-family: 'Roboto';
+  margin: 24px;
+}
+
+.btn {
+  font-family: 'Roboto';
+  width: 100px;
+  height: 36px;
+  margin-bottom: 24px;
+  border-radius: 6px;
+}
